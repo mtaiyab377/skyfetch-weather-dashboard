@@ -115,7 +115,6 @@ h1 {
     font-size: 1rem;
     transition: all 0.3s ease;
 }
-
 /* Hover Effect */
 #search-btn:hover {
     transform: translateY(-2px);
